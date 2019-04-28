@@ -1,0 +1,2 @@
+C:\MM\Demos\MVC Demo\OOPS\obj\Debug\OOPS.csprojAssemblyReference.cache
+C:\MM\Demos\MVC Demo\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
