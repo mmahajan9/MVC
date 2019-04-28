@@ -1,0 +1,20 @@
+﻿<h2>
+    CachingPartialView2.cshtml
+</h2>
+<div>
+    <div class="info" style="width:30% !important;" >
+        <span>
+            This is Caching Partial View 2 <br />
+            This view is rendered using <span class="code">Html.Action()</span> helper.<br />
+            <span class="code">OutputCache</span> filter is applied to this method.
+            This time is calculated in View itself. Still this is getting cached.
+        </span>        
+        @DateTime.Now.ToString()
+        <br />
+        <br />
+        <span class="highlight">
+            NOTE: Even though we have not written 'PartiaViewResult' as a return type or even though we have not marked a method as [CHildActionOnly],
+            this method is still ChildAction as it is being called as Partial View using 'Action' OR 'PartialAction'.
+        </span>
+    </div>
+</div>

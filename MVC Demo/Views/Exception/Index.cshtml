@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Exception";
+}
+
+<h2>There is an Exception</h2>
+
+<div style=" height:100%; width:40%; float:left;">
+    <div class="border">
+        @Html.Partial("PartialView1")
+    </div>
+    <div class="border">
+        <span class="highlight">
+            We tried to render a partial view from another folder by using the following helper.
+        </span>
+        But this did not execute and instead thrown an error because to render a partial view, it must be in the <span class="highlight">same folder</span>  or in <span class="highlight">shared folder</span>.
+        <br />
+        <br />
+        <h3>
+            <span class="code" style="background-color:yellow;">
+                @@Html.Partial("HomePartialView")
+            </span>
+        </h3>
+        <br />
+        <br />
+        This comment box will not execute as this partial view is not inside the EXception folder or inside the shared folder.
+        And it will throw below error.
+        <span style="color:red;">
+            System.InvalidOperationException: 'The partial view 'HomePartialView' was not found or no view engine supports the searched locations. The following locations were searched:
+            ~/Views/Exception/HomePartialView.aspx
+            ~/Views/Exception/HomePartialView.ascx
+            ~/Views/Shared/HomePartialView.aspx
+            ~/Views/Shared/HomePartialView.ascx
+            ~/Views/Exception/HomePartialView.cshtml
+            ~/Views/Exception/HomePartialView.vbhtml
+            ~/Views/Shared/HomePartialView.cshtml
+            ~/Views/Shared/HomePartialView.vbhtml'
+        </span>
+
+        @*@Html.Partial("HomePartialView")*@
+    </div>
+
+</div>

@@ -1,0 +1,24 @@
+﻿@*@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}*@
+<h2>
+    CachingPartialView1.cshtml
+</h2>
+<div>
+    <div class="info">
+        This is Caching Partial View 1
+        <br />
+        This view is rendered using <span class="code">Html.RenderAction()</span> helper.<br />
+        <span class="code">OutputCache filter</span> is applied to this action.<br />
+        <span>
+            This time is brought from Action method and assigned to ViewBag. Then using ViewBag it is rendered on view. <br />
+            @ViewBag.Date
+        </span>
+        <br />
+        <br />
+        <span class="highlight">
+            NOTE: 'OutputCacheAttribute for child actions only supports Duration, VaryByCustom, and VaryByParam values. Please do not set CacheProfile, Location, NoStore, SqlDependency, VaryByContentEncoding, or VaryByHeader values for child actions.'
+            The '<span class="code">ChildActionOnly</span>' attribute ensures that an action method can be called only as a child method from within a view. An action method doesn’t need to have this attribute to be used as a child action, but we tend to use this attribute to prevent the action methods from being invoked as a result of a user request.
+        </span>
+    </div>
+</div>

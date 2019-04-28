@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Default";
+}
+
+<h2>Default</h2>
+
+<div style="display:inline-block;">
+    <div class="leftNav">
+        <div class="border">
+            @{Html.RenderAction("CachingPartialView1");}
+        </div>
+        <div class="border" style="overflow-x:visible;">
+            @Html.Action("CachingPartialView2")
+        </div>
+    </div>
+    
+    <div class="rightPane">
+        <div class="border" style="padding:10px; width:100%;">
+            Redirect to Exception page to see if we can call a partial view from another folder.
+            @Html.ActionLink("Redirect", "Index", "Exception")
+            <br />
+            <ul style="padding:0px;">
+                <li class="info" style="list-style:none;">
+                    Used <span class="code">Html.ActionLink()</span> method to redirect to another action in same controller or different controller.
+                </li>
+            </ul>
+            @*<span class="info" style="margin:20px;">
+                Used <span class="code">Html.ActionLink()</span> method to redirect to another action in same controller or different controller.
+            </span>*@
+        </div>
+        <div class="border">
+                @{ Html.RenderPartial("PartialView1"); }
+        </div>
+        <div class="_temp border">
+            <h2>
+                @*<script type="text/javascript">
+                    var a = @Html.Partial("PartialVIew2");
+                    a.append("<div>this is appended</div>");
+                    $("._temp h2").append(a);
+                </script>*@
+                
+                @Html.Partial("PartialVIew2")
+            </h2>
+        </div>
+        <div class="border" style="overflow-x:scroll;">
+            <div class="info">
+                You can even render any kind of view using <span class="code">Html.RenderAction()</span> & <span class="code">Html.Action()</span>.
+                you can render Partial view as well as non-partial views using this helper.
+                This helps you render all those views which has action method.
+            </div>
+            @{Html.RenderAction("Index");}
+        </div>
+        <div class="border">
+            @Html.Action("PartailView3")
+        </div>
+    </div>
+</div>

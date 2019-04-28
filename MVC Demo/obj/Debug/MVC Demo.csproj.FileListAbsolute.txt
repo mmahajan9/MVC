@@ -1,0 +1,80 @@
+C:\MM\Demos\MVC Demo\MVC Demo\bin\MVC Demo.dll.config
+C:\MM\Demos\MVC Demo\MVC Demo\bin\MVC Demo.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\MVC Demo.pdb
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\csc.exe
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\csc.exe.config
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\csc.rsp
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\csi.exe
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\csi.exe.config
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\csi.rsp
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.AppContext.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Console.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.IO.Compression.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.IO.FileSystem.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.IO.Pipes.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Security.AccessControl.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Security.Claims.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.ValueTuple.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Xml.XPath.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\vbc.exe
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\vbc.exe.config
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\vbc.rsp
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\VBCSCompiler.exe
+C:\MM\Demos\MVC Demo\MVC Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\MM\Demos\MVC Demo\MVC Demo\bin\Antlr3.Runtime.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\Newtonsoft.Json.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.Helpers.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.Mvc.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.Optimization.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.Razor.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.WebPages.Deployment.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.WebPages.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.WebPages.Razor.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\WebGrease.dll
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.Helpers.xml
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.Mvc.xml
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.Optimization.xml
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.Razor.xml
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.WebPages.xml
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.WebPages.Deployment.xml
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Web.WebPages.Razor.xml
+C:\MM\Demos\MVC Demo\MVC Demo\bin\Newtonsoft.Json.xml
+C:\MM\Demos\MVC Demo\MVC Demo\bin\Antlr3.Runtime.pdb
+C:\MM\Demos\MVC Demo\MVC Demo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\MM\Demos\MVC Demo\MVC Demo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\MM\Demos\MVC Demo\MVC Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MM\Demos\MVC Demo\MVC Demo\obj\Debug\MVC Demo.csproj.CoreCompileInputs.cache
+C:\MM\Demos\MVC Demo\MVC Demo\obj\Debug\MVC Demo.csproj.CopyComplete
+C:\MM\Demos\MVC Demo\MVC Demo\obj\Debug\MVC Demo.dll
+C:\MM\Demos\MVC Demo\MVC Demo\obj\Debug\MVC Demo.pdb
+C:\MM\Demos\MVC Demo\MVC Demo\obj\Debug\MVC Demo.csprojAssemblyReference.cache
